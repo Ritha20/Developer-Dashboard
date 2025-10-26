@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import Navbar from './components/Navbar';
-import GitHubCard from './components/GitHubCard';
+import GitHubCard from './components/GithubCard';
 import WeatherCard from './components/WeatherCard';
 import { 
   fetchGitHubData, 
